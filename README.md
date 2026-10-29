@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I am Jayesh Patil 👋
 
-<!--
-**jayesh97-ctrl/jayesh97-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data and Business Analyst based in the UK. I hold an MSc in Business Analytics from Coventry University and have 2 + years of experience in SAP application support and business analysis, including a role at Wipro supporting SAP and ServiceNow users and contributing to an SAP ECC to S/4HANA transformation.
 
-Here are some ideas to get you started:
+I am currently looking for Data Analyst and Business Analyst roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+SQL (SQLite) · Power BI and DAX · Python · Excel · Jira · ServiceNow · SAP
+
+## Projects
+
+**[SQL and Power BI Retail Reporting Pipeline](https://github.com/jayesh97-ctrl/sql-powerbi-retail-pipeline)**
+Cleaned and modelled around 540,000 retail transactions into a star schema in SQL, documented the data quality decisions, and built a three page Power BI report on top. It surfaced £10.26M in revenue, a 14.8% cancellation rate, and about 14% of orders placed without a customer ID. Includes the SQL scripts, data dictionary, DAX measures and the Power BI file.
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/jayesh-deepak-patil)
+
